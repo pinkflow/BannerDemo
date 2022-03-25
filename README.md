@@ -4,7 +4,7 @@ Developer mode launch:
 
     copy repository to your pc;
     run mysql server and create an empty database;
-    open "application.properties" file and insert your port and database name instead of those preset;
+    open "application.properties" file and insert your port and database name instead of those present;
     also insert your database credentials in the next two lines;
     execute "mvn spring-boot:run" in command line;
     move to the "frontend" directory
