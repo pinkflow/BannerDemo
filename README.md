@@ -12,4 +12,4 @@ Developer mode launch:
     open localhost:3000/bid?cat1={yourcategory}
   
   
- Theres is no categories and banners yet, but you can add it through postman. Basic Authorization credentials: username=user, password=password
+ Theres is no categories and banners yet, but you can add it through postman(json format). Basic Authorization credentials: username=user, password=password
