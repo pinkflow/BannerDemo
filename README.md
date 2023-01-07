@@ -1,5 +1,3 @@
-First of all, i'm sorry for not managing my time right and not implementing most of front-end part. Anyway, i implemented all of the back-end and also services for front-end part.
-
 Developer mode launch:
 
     copy repository to your pc;
